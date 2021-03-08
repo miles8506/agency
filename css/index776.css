@@ -1,0 +1,25 @@
+body header {
+  padding: 0;
+}
+
+body header .navbar-mobile {
+  right: 5px;
+}
+
+body section .container {
+  width: 375px;
+}
+
+body section .container .title {
+  font-size: 20px;
+  padding-right: 75px;
+  line-height: 60px;
+}
+
+body section .container .title .animation-font {
+  right: 60px;
+}
+
+body section .container .title .animation-font .slide-item {
+  font-size: 20px;
+}
